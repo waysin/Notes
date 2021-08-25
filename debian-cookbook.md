@@ -90,6 +90,18 @@ Now, run dwm:
 
 `$ startx`
 
+Recommend patch:
+
+- dwm
+  - [autostart](https://dwm.suckless.org/patches/autostart/)
+- st
+  - [anysize](https://st.suckless.org/patches/anysize/)
+  - [dracula](https://st.suckless.org/patches/dracula/)
+  - [font2](https://st.suckless.org/patches/font2/)
+  - [scrollback](https://st.suckless.org/patches/scrollback/)
+- dmenu
+  - [dmenu_run with command history](https://tools.suckless.org/dmenu/scripts/dmenu_run_with_command_history/)
+
 ## zsh
 
 Install zsh and plugins:
